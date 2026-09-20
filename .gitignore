@@ -1,4 +1,6 @@
 venv
 .venv
 env
-description*
+description*.DS_Store
+Thumbs.db
+.env
